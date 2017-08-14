@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import Invitation from './components/Invitation';
 import ThemedParty from './components/ThemedDecorations';
-
+ 
 ReactDOM.render(
   <div>
     <Invitation>Hey, you should totally come to this awesome party I'm throwing!</Invitation>

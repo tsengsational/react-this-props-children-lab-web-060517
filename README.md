@@ -7,7 +7,7 @@ In this lab, you'll use `this.props.children` to build reusable components and u
 ## The party planner
 ![Organizing a party](https://media.giphy.com/media/l2JdSrBGOtj0UpLOM/giphy.gif)
 
-Let's throw a party! The first thing we'll need is an invitation we can send to people with a customized message.
+Let's throw a party! The first thing we'll need is an invitation we can send to people with a customized message. 
 
 1. In the `components/Invitation.js` file, create an `Invitation` React component.
 2. This component renders out an `h1` with the text `'You've been invited!'`
